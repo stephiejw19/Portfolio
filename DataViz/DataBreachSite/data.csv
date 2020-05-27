@@ -1,0 +1,7 @@
+﻿title,thumbnail,summary,tableau_share_id
+Threat Actions,sample_image_01.png,Gives users the opportunity to explore a pure text dataset using countries and years as references.,G848H4337
+Industry,sample_image_02.png,The Department of Justice has the most consistent involvement from year to year.,6TGTTQYXH
+Country,sample_image_03.png,Unspecified “hacks” are used with the majority of assets to commit an incident.,JQNWKT84J
+Sample,sample_image_04.png, Users can ask additional assets or methods be included for analysis.,B3J77GJZ6
+Assets,sample_image_05.png, Financial gain is the main motive (80%) for the US while ideology and espionage motived incidents are widespread over countries and only 23% of total incidents with these motive have targetted the US.,https://public.tableau.com/views/ByAssets_15637531133300/RelationshipBetweenMethodandAsset?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link
+Intro,intro.png, Example of data breach,intro

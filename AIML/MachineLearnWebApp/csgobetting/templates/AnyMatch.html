@@ -1,0 +1,17 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+<div class="tm-main-content" id="top">
+    <div class="tm-page-wrap mx-auto">
+        <div  style="background:white" class="tab-content clearfix" style="padding-top: 10px">
+            <h3 style="text-align:center;"> {{ joke }} </h3>
+        </div>
+       
+        <div style="text-align:center">
+            {% load static %}
+            <img src="{% static 'img/brain.gif' %}" alt="Site logo">
+        </div>
+    </div>
+</div>
+
+{% endblock %}

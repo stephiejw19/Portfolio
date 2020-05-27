@@ -1,0 +1,67 @@
+#comb {
+  width: 100%;
+  padding: 40px;
+  fill: black;
+  font-weight: bold;
+}
+
+#comb .mesh {
+  fill:none;
+  stroke:   #AFEEEE;
+  stroke-width: 3px;
+}
+#comb .projectHex{
+  opacity: 0.1;
+}
+#comb .projectHex.important{
+  opacity: .5
+}
+#comb #hexClip {
+  fill:black;
+}
+
+#comb .projectHex .hexBG {
+  fill: white;
+}
+
+#comb .important .hexBG {
+  fill: #ddd;
+}
+
+
+#comb circle {
+  fill:none;
+  stroke:steelblue;
+}
+.card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card .thumb {
+  max-height: 400px;
+}
+
+.authors {
+  font-weight: bolder;
+  margin-top: 5px;
+}
+
+.logo {
+  height: 50px;
+  margin: 20px 0px;
+}
+.intro {
+  font-size: 110%;
+}
+#about {
+  font-style: italic;
+}
+.btn {
+  margin: 2px;
+}
+/*#comb svg {
+  -webkit-box-shadow: 0px 0px 109px -10px #bdbdbd;
+    -moz-box-shadow: 0px 0px 109px -10px #bdbdbd;
+  box-shadow: 0px 0px 109px -10px #bdbdbd;
+}*/
